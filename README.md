@@ -1,4 +1,4 @@
-# Rahul-Ramachandran-Portfolio
+
 All about me, my interests and my projects!
 <h1 align="center">👋 Hi, I'm Rahul Ramachandran</h1>
 <h3 align="center">⚙️ Building systems that make operations actually work</h3>
