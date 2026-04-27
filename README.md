@@ -1,7 +1,7 @@
 
 All about me, my interests and my projects!
 <h1 align="center">👋 Hi, I'm Rahul Ramachandran</h1>
-<h3 align="center">⚙️ Building systems that make operations actually work</h3>
+<h3 align="center">⚙️ Building simple systems that make operations actually work</h3>
 <p align="center">
   <em>Operations • Project • Procurement • Manufacturing/Industrial • GTM</em>
 </p>
@@ -55,10 +55,10 @@ I approach operations with a simple mindset:
 
 ## 💡 My Philosophy
 
-> Good operations are simple, reduce friction, create clarity, dependent on the structure and not an individual, and help teams move faster without breaking what matters.
+> Good operations are simple, reduces friction, creates clarity, depends on the structure and not an individual, and help teams move faster without breaking what matters.
 
 
-## 🤝 Connect
+## 🤝 Lets Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rahulramachandran4254/">🔗 LinkedIn</a> •
