@@ -48,9 +48,9 @@ I approach operations with a simple mindset:
 ## 🧪 Featured Work
 
 📌 Check out my repositories for:
-- Operations  
-- Project Management  
-- Quality & Reliability
+- <a href="https://github.com/rahulramachandran4254/Operations">🔗 Operations  
+- <a href="https://github.com/rahulramachandran4254/Project-Management-using-Smartsheet">🔗 Project Management  
+- <a href="https://github.com/rahulramachandran4254/Quality-and-Reliability-Project">🔗 Quality & Reliability
 - Product Case Studies (Coming Soon) 
 
 ## 💡 My Philosophy
