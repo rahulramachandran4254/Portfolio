@@ -10,7 +10,7 @@ All about me, my interests and my projects!
 
 I enjoy working on building and improving operations especially in environments where things are still taking shape.
 
-My background is in operations, projects and industrial, with experience across procurement (P2P), supplier management, production planning, and cross-functional execution. I’ve worked in systems where small gaps can stop operations, so I focus on reliability, clarity, and execution that holds up under pressure.
+My background is in operations, program/projects , with experience across procurement (P2P), supplier management, production planning, and cross-functional execution. I’ve worked in systems where small gaps can stop operations, so I focus on reliability, clarity, and execution that holds up under pressure.
 
 I find myself creating order in chaos, working from the ground up figuring out how things should run, setting up processes, and making sure they actually work in practice. A lot of my work has been around removing inefficiencies, improving information flow, and creating structure where there isn’t much to begin with.
 
@@ -28,7 +28,7 @@ I approach operations with a simple mindset:
 - 🤝 Supplier Performance & Cost Optimization  
 - 🏭 Manufacturing & Material Planning  
 - 🔄 Process Design & Improvement (Lean)  
-- 📊 GTM Strategy (learning & applying)  
+- 📊 GTM Strategy   
 
 
 ## 🔍 What I'm Exploring
